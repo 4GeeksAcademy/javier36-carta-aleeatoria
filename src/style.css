@@ -1,1 +1,11 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+#headerCard {
+  font-size: 5rem;
+}
+#centerCard {
+  font-size: 7rem;
+}
+#footerCard {
+  font-size: 5rem;
+}
